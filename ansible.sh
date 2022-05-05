@@ -14,17 +14,18 @@ trigger_file=trigger.${now}.txt
 tag_sh_file=tag.${now}.sh
 
 curl -s https://github.jiyuhang.workers.dev/https://raw.githubusercontent.com/Ji-Yuhang/docker-pull-proxy/main/trigger.txt -o $trigger_file
-echo $file
+echo $trigger_file
 
-cat $file |awk '{print "docker pull "$2} '
-cat $file |awk '{print "docker tag "$2 " " $1} '
+cat $trigger_file |awk '{print "docker pull "$2} '
+cat $trigger_file |awk '{print "docker tag "$2 " " $1} '
 
 
-cat $file |awk '{print "docker pull "$2} ' > $tag_sh_file
-cat $file |awk '{print "docker tag "$2 " " $1} ' >> $tag_sh_file
+cat $trigger_file |awk '{print "docker pull "$2} ' > $tag_sh_file
+cat $trigger_file |awk '{print "docker tag "$2 " " $1} ' >> $tag_sh_file
 
 # cat $file |awk '{print "ansible all -m command -a \"docker pull " $2 "\"" } '
 # cat $file |awk '{print "ansible all -m command -a \"docker tag " $2 $1 "\"" } '
+echo $tag_sh_file
 
 ansible all -m script -a $tag_sh_file
 

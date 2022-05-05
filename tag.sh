@@ -8,7 +8,7 @@ echo $trigger_file
 cat $trigger_file |awk '{print "docker pull "$2} '
 cat $trigger_file |awk '{print "docker tag "$2 " " $1} '
 
-cat $file |awk '{print "docker pull "$2} ' > $tag_sh_file
-cat $file |awk '{print "docker tag "$2 " " $1} ' >> $tag_sh_file
+cat $trigger_file |awk '{print "docker pull "$2} ' > $tag_sh_file
+cat $trigger_file |awk '{print "docker tag "$2 " " $1} ' >> $tag_sh_file
 
 sh $tag_sh_file
