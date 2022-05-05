@@ -1,0 +1,1 @@
+nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
