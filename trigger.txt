@@ -1,1 +1,1 @@
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 registry.cn-beijing.aliyuncs.com/ijx-public/kube-state-metrics:v2.0.0
+k8s.gcr.io/pause:3.2 registry.cn-beijing.aliyuncs.com/ijx-public/pause:3.2
