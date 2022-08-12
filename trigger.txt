@@ -1,1 +1,1 @@
-skywalking.docker.scarf.sh/apache/skywalking-ui:9.1.0 registry.cn-beijing.aliyuncs.com/ijx-public/skywalking-ui:9.1.0
+skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.1.0 registry.cn-beijing.aliyuncs.com/ijx-public/skywalking-oap-server:9.1.0
