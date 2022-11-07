@@ -1,1 +1,1 @@
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.1.0 registry.cn-beijing.aliyuncs.com/ijx-public/skywalking-oap-server:9.1.0
+mattermost/mattermost-team-edition:7.4.0 registry.cn-beijing.aliyuncs.com/ijx-public/mattermost-team-edition:7.4.0
