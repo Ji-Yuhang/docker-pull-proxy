@@ -1,1 +1,1 @@
-mattermost/mattermost-team-edition:7.4.0 registry.cn-beijing.aliyuncs.com/ijx-public/mattermost-team-edition:7.4.0
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2 registry.cn-beijing.aliyuncs.com/ijx-public/nfs-subdir-external-provisioner:v4.0.2
