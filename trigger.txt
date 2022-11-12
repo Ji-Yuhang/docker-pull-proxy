@@ -1,1 +1,1 @@
-ghcr.io/openfaas/of-watchdog:0.9.10 registry.cn-beijing.aliyuncs.com/ijx-public/nfs-subdir-external-provisioner:0.9.10
+ghcr.io/openfaas/of-watchdog:0.9.10 registry.cn-beijing.aliyuncs.com/ijx-public/of-watchdog:0.9.10
