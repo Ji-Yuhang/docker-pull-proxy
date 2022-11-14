@@ -28,3 +28,4 @@ jobs:
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $REGISTRY
         sh pull.sh
         cat trigger.txt
+        sh notify.sh
