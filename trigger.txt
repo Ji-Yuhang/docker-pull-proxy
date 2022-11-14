@@ -1,1 +1,1 @@
-node:16-alpine registry.cn-beijing.aliyuncs.com/ijx-public/node:16-alpine
+$1 registry.cn-beijing.aliyuncs.com/ijx-public/$1:latest
