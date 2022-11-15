@@ -1,1 +1,1 @@
-$1 registry.cn-beijing.aliyuncs.com/ijx-public/$1:latest
+nginx registry.cn-beijing.aliyuncs.com/ijx-public/nginx:latest
