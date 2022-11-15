@@ -1,1 +1,1 @@
-nginx registry.cn-beijing.aliyuncs.com/ijx-public/nginx:latest
+nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
