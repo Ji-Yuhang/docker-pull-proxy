@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
+openjdk:11 registry.cn-beijing.aliyuncs.com/ijx-public/openjdk:11
