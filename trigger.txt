@@ -1,1 +1,1 @@
-ghcr.io/losfair/blueboat:v0.3.1-alpha.5 registry.cn-beijing.aliyuncs.com/ijx-public/blueboat:v0.3.1-alpha.5
+nginx:1.23-alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:1.23-alpine
