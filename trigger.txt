@@ -1,1 +1,1 @@
-nginx:1.23-alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:1.23-alpine
+jetty registry.cn-beijing.aliyuncs.com/ijx-public/jetty:latest
