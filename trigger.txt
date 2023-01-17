@@ -1,1 +1,1 @@
-jetty registry.cn-beijing.aliyuncs.com/ijx-public/jetty:latest
+openjdk:17-ea-5-jdk-alpine3.13 registry.cn-beijing.aliyuncs.com/ijx-public/openjdk:17-ea-5-jdk-alpine3.13
