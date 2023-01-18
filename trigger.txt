@@ -1,1 +1,1 @@
-openjdk:17-ea-5-jdk-alpine3.13 registry.cn-beijing.aliyuncs.com/ijx-public/openjdk:17-ea-5-jdk-alpine3.13
+derailed/popeye registry.cn-beijing.aliyuncs.com/ijx-public/popeye:latest
