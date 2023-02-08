@@ -1,1 +1,1 @@
-derailed/popeye registry.cn-beijing.aliyuncs.com/ijx-public/popeye:latest
+hengyunabc/arthas:3.6.7-no-jdk registry.cn-beijing.aliyuncs.com/ijx-public/arthas:3.6.7-no-jdk
