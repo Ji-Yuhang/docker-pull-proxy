@@ -1,1 +1,1 @@
-temporalio/admin-tools:1.19.1 registry.cn-beijing.aliyuncs.com/ijx-public/admin-tools:1.19.1
+temporalio/server:1.19.1 registry.cn-beijing.aliyuncs.com/ijx-public/server:1.19.1
