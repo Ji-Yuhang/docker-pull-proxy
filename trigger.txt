@@ -1,1 +1,1 @@
-hengyunabc/arthas:3.6.7-no-jdk registry.cn-beijing.aliyuncs.com/ijx-public/arthas:3.6.7-no-jdk
+temporalio/admin-tools:1.19.1 registry.cn-beijing.aliyuncs.com/ijx-public/admin-tools:1.19.1
