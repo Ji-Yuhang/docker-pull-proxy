@@ -1,1 +1,1 @@
-nocodb/nocodb:0.105.3 registry.cn-beijing.aliyuncs.com/ijx-public/nocodb:0.105.3
+outlinewiki/outline:0.68.1 registry.cn-beijing.aliyuncs.com/ijx-public/outline:0.68.1
