@@ -1,1 +1,1 @@
-outlinewiki/outline:0.68.1 registry.cn-beijing.aliyuncs.com/ijx-public/outline:0.68.1
+jenkinsci/blueocean:1.25.7 registry.cn-beijing.aliyuncs.com/ijx-public/blueocean:1.25.7
