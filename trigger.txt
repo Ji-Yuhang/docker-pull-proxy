@@ -1,1 +1,1 @@
-vrantt/databasir:latest registry.cn-beijing.aliyuncs.com/ijx-public/databasir:latest
+qdrant/qdrant registry.cn-beijing.aliyuncs.com/ijx-public/qdrant:latest
