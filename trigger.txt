@@ -1,1 +1,1 @@
-qdrant/qdrant registry.cn-beijing.aliyuncs.com/ijx-public/qdrant:latest
+jupyter/datascience-notebook registry.cn-beijing.aliyuncs.com/ijx-public/datascience-notebook:latest
