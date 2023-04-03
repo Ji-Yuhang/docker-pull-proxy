@@ -1,1 +1,1 @@
-jupyter/datascience-notebook registry.cn-beijing.aliyuncs.com/ijx-public/datascience-notebook:latest
+python:3.9 registry.cn-beijing.aliyuncs.com/ijx-public/python:3.9
