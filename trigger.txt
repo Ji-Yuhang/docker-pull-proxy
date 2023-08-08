@@ -1,1 +1,1 @@
-apachesuperset.docker.scarf.sh/apache/superset:2.1.0 registry.cn-beijing.aliyuncs.com/ijx-public/superset:2.1.0
+grafana/grafana:9.5.3 registry.cn-beijing.aliyuncs.com/ijx-public/grafana:9.5.3
