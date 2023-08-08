@@ -1,1 +1,1 @@
-apachesuperset.docker.scarf.sh/apache/superset registry.cn-beijing.aliyuncs.com/ijx-public/superset:latest
+apachesuperset.docker.scarf.sh/apache/superset:2.1.0 registry.cn-beijing.aliyuncs.com/ijx-public/superset:2.1.0
