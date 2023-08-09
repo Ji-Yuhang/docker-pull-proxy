@@ -1,1 +1,1 @@
-grafana/grafana:9.5.3 registry.cn-beijing.aliyuncs.com/ijx-public/grafana:9.5.3
+apache/apisix:3.4.1-debian registry.cn-beijing.aliyuncs.com/ijx-public/apisix:3.4.1-debian
