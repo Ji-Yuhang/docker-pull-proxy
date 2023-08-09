@@ -1,1 +1,1 @@
-apache/apisix:3.4.1-debian registry.cn-beijing.aliyuncs.com/ijx-public/apisix:3.4.1-debian
+apache/apisix:3.2.2-debian registry.cn-beijing.aliyuncs.com/ijx-public/apisix:3.2.2-debian
